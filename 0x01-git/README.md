@@ -1,2 +1,2 @@
 my second commit
-my first bash
+my first programming
